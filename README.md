@@ -1,4 +1,4 @@
-# 🌟 Video & Chat App
+# 🌟 Streamify - Video & Chat App
 
 Welcome to **Streamify** – a modern, full-stack real-time chat and video calling platform!  
 Connect, chat, and collaborate with friends using seamless messaging and high-quality video calls, all powered by cutting-edge technologies.
