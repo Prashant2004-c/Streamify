@@ -1,6 +1,6 @@
-# 🌟 Chat App
+# 🌟 Video & Chat App
 
-Welcome to **Video & Chat App** – a modern, full-stack real-time chat and video calling platform!  
+Welcome to **Streamify** – a modern, full-stack real-time chat and video calling platform!  
 Connect, chat, and collaborate with friends using seamless messaging and high-quality video calls, all powered by cutting-edge technologies.
 
 ---
@@ -119,27 +119,10 @@ Visit `http://localhost:5173` to get started!
 - **Real-Time Everything:** Chat and video are powered by industry-leading APIs.
 - **Secure:** Modern authentication and best practices throughout.
 - **Beautiful UI:** Clean, modern, and responsive – looks great everywhere.
-- **Open Source:** Tweak, extend, and make it your own!
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
-
----
-
-## 📄 License
-
-[MIT](LICENSE)
 
 ---
 
 ## 🙏 Acknowledgements
 
 - [Stream](https://getstream.io/) for their amazing chat and video APIs
-- [React](https://react.dev/), [Vite](https://vitejs.dev/), [TailwindCSS](https://tailwindcss.com/), and all open-source contributors
-
----
-
-> _Made with ❤️ by the Chat App Team_ 
+- [React](https://react.dev/), [Vite](https://vitejs.dev/), [TailwindCSS](https://tailwindcss.com/)
